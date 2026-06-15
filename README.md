@@ -1,6 +1,7 @@
-Save the following as **README.md**:
+<p align="center">
+  <img src="logo.png" alt="Nepal Business OS Logo" width="200" />
+</p>
 
-````md
 # 🇳🇵 Nepal Business OS
 
 ![NestJS](https://img.shields.io/badge/NestJS-10-red?logo=nestjs)
